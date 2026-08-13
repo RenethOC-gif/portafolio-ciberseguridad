@@ -25,7 +25,3 @@ Especialista en Ciberseguridad, en formación hacia la ciberseguridad. Este repo
 ## Aviso
 
 Todo el contenido de este repositorio es **exclusivamente para fines educativos**, realizado en entornos de laboratorio controlados y autorizados (TryHackMe, laboratorios de academia). No se incluye información sensible real ni se promueve el uso de estas técnicas contra sistemas sin autorización.
-
-## Contacto
-
-René Ochoa — Especialista en Ciberseguridad
