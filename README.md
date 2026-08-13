@@ -2,8 +2,6 @@
 
 Especialista en Ciberseguridad, en formación hacia certificación en pentesting. Este repositorio contiene writeups documentados de máquinas resueltas en **TryHackMe** y en laboratorios de la certificación **PMJ (Hacker Mentor)**, cubriendo reconocimiento, explotación, escalada de privilegios y post-explotación.
 
-📄 Actualmente en proceso de máster en Ciberseguridad en España.
-
 ## Habilidades técnicas
 
 - **Reconocimiento:** Nmap, Gobuster, enumeración de servicios (SMB, FTP, HTTP, RPC)
