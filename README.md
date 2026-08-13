@@ -1,6 +1,6 @@
 # Portafolio de Ciberseguridad — René Ochoa
 
-Especialista en Ciberseguridad, en formación hacia certificación en pentesting. Este repositorio contiene writeups documentados de máquinas resueltas en **TryHackMe** y en laboratorios de la certificación **PMJ (Hacker Mentor)**, cubriendo reconocimiento, explotación, escalada de privilegios y post-explotación.
+Especialista en Ciberseguridad, en formación hacia la ciberseguridad. Este repositorio contiene writeups documentados de máquinas resueltas en **TryHackMe** y en laboratorios de la certificación **PMJ (Hacker Mentor)**, cubriendo reconocimiento, explotación, escalada de privilegios y post-explotación.
 
 ## Habilidades técnicas
 
